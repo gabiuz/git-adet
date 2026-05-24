@@ -3,3 +3,5 @@ hello world
 hello world from branch 1
 
 hello world from main branch
+
+hello world from developer directory
